@@ -14,7 +14,7 @@ o	Amplitude= 50 mV
 o	Frequency= 1 kHz
 In LTSpice, go to Edit Simulation Command, select Transient Analysis. Set the Stop Time as 5ms, then click OK.
 5.	AC Analysis: In Edit Simulation Command, select AC Analysis. Set the Type of Sweep to Decade. Set Points per Decade to 10. Set the Frequency Range from 0.1 Hz to 1 THz. Click OK. Determine the gain and frequency response of the circuit.
-Calculation
+#### Calculation
 Power Calculation P = 100 uW
 Drain Equation VDD = VDS + ID*RD
 P = I*V
@@ -31,11 +31,11 @@ Q point is (0.467 V,55.55 uA)
 
 Drain current Id=55.55 uA Vout=0.467 V
 Width=18 um for length=180 nm
-#### 2.Transient Analysis:
+#### 2. Transient Analysis:
  ![image](https://github.com/user-attachments/assets/10451bdf-afdd-412a-8352-c9d3d458f864)
 
 There is a 180-degree phase shift between the input and output
-#### 3.AC Analysis: 
+#### 3. AC Analysis: 
 ![image](https://github.com/user-attachments/assets/606eb559-99f4-43a6-81d8-d99f13b4bed3)
 
 Gain=20 dB.
@@ -74,13 +74,13 @@ Width=449 um(found by keeping the Length of M2 constant)
  
 The value of the Vin is selected as 0.8V as it is present in the middle of the saturation region of the VTC Curve.
 
-#### 2.DC Analysis:
+#### 2. DC Analysis:
  ![image](https://github.com/user-attachments/assets/672d197c-60b1-4507-8d0b-364aaaee52d1)
  
 drain current Id=55.55 uA Vout=1.22 V
 Length M1= 180 nm, Width=190 nm for M1.
 Length M2= 180 nm, Width=449 um for M2.
-#### 3.Transient Analysis:
+#### 3. Transient Analysis:
  ![image](https://github.com/user-attachments/assets/e9546a7e-0a57-4f80-9ffb-268635a7d8fc)
  
 There is a 180-degree phase shift between the input and output
