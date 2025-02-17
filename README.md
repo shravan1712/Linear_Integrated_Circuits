@@ -30,7 +30,7 @@ Q point is (0.467 V,55.55 uA)
  ![image](https://github.com/user-attachments/assets/1db0371c-b568-4750-abb2-515a0d3e231d)
 
 Drain current Id=55.55 uA Vout=0.467 V
-Width=18 um for length=180 nm\
+Width=18 um for length=180 nm
 #### 2.Transient Analysis:
  ![image](https://github.com/user-attachments/assets/10451bdf-afdd-412a-8352-c9d3d458f864)
 
@@ -79,7 +79,7 @@ The value of the Vin is selected as 0.8V as it is present in the middle of the s
  
 drain current Id=55.55 uA Vout=1.22 V
 Length M1= 180 nm, Width=190 nm for M1.
-Length M2= 180 nm, Width=449 um for M2.\
+Length M2= 180 nm, Width=449 um for M2.
 #### 3.Transient Analysis:
  ![image](https://github.com/user-attachments/assets/e9546a7e-0a57-4f80-9ffb-268635a7d8fc)
  
