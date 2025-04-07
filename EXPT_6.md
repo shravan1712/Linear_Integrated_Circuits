@@ -19,6 +19,7 @@ through M<sub>1</sub>, making it act as an active load, and use it to as
 our I<sub>D</sub> value in further transistors.
 
 **Design Question:**
+
 ![2](https://github.com/user-attachments/assets/9879d40f-fcf9-4c0f-80e8-ba31fb6ce9a8)
 
 **Design: -**
